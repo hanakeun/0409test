@@ -16,6 +16,10 @@ uses
   cxGrid, cxClasses;
 {$I coop_data.inc}
 
+
+
+//테스트 좀 하겠습니다!!!!!!!!!! 0409test
+
 type
   TForm1 = class(TForm)
     ToolBar1: TToolBar;
