@@ -19,6 +19,7 @@ uses
 
 
 //테스트 좀 하겠습니다!!!!!!!!!! 0409test
+//숑숑
 
 type
   TForm1 = class(TForm)
